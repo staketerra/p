@@ -1,7 +1,7 @@
 {
 	"name": "Institute Ecoterm Modular",
 	"ticker": "TERRA",
-	"description": "TERRA is a mission driven single stake pool operated by the Institute Ecoterm Modular which is an organisation dedicated to promote the use of EARTH as a building material.",
+	"description": "TERRA is a mission driven single stake pool operated by the Institute Ecoterm Modular which is an organisation dedicated to promote the use of EARTH as a building material",
 	"homepage": "https://ecoterm.org",
 	"extended": "https://raw.githubusercontent.com/staketerra/p/main/ext.json"
 }
