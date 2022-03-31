@@ -2,8 +2,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/staketerra/p/main/64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/staketerra/p/main/hires.png",
         "location": "Peth, Australia",
         "social": {
             "twitter_handle": "Earth_Natives",
@@ -15,7 +15,7 @@
             "github_handle": ""
         },
         "about": {
-            "me": "",
+            "me": "You can learn more about our Institute at www.ecoterm.org and also check out our CNFT project www.earthnatives.io which showcases the use of our ecological bricks.",
             "server": ""
         },
         "rss": "http(s) url to valid RSS feed"
