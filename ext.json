@@ -1,1 +1,34 @@
 
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "Peth, Australia",
+        "social": {
+            "twitter_handle": "Earth_Natives",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "HHtR4x6hCP",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "",
+            "server": ""
+        },
+        "rss": "http(s) url to valid RSS feed"
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
