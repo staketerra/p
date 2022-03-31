@@ -1,7 +1,7 @@
 {
-"name":"Earth Natives Staking pool",
-"ticker":"TERRA",
-"description":"",
-"homepage":"https://earthnatives.io",
-"extended":"https://raw.githubusercontent.com/staketerra/p/main/ext.json"
+	"name": "Institute Ecoterm Modular",
+	"ticker": "TERRA",
+	"description": "TERRA is a mission driven single stake pool operated by the Institute Ecoterm Modular which is an organisation dedicated to promote the use of EARTH as a building material.",
+	"homepage": "https://ecoterm.org",
+	"extended": "https://raw.githubusercontent.com/staketerra/p/main/ext.json"
 }
