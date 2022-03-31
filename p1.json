@@ -1,1 +1,7 @@
-
+{
+"name":"Earth Natives Staking pool",
+"ticker":"TERRA",
+"description":"",
+"homepage":"https://earthnatives.io",
+"extended":"https://raw.githubusercontent.com/staketerra/p/main/ext.json"
+}
